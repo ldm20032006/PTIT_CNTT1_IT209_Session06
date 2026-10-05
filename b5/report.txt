@@ -1,0 +1,2 @@
+-- Logs begin at Tue 2025-07-01 12:35:55 +07, end at Mon 2026-10-05 20:11:19 +07. --
+Oct 05 20:11:02 youngboi-dev-backend systemd[1]: Started Java Spring Boot Application Service.
